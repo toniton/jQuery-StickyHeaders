@@ -1,0 +1,10 @@
+/* CSS Document */
+.sticky.fixed {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+.sticky.fixed.absolute {
+  position: absolute;
+}
